@@ -1,0 +1,6 @@
+target/
+bin/
+.idea/
+*.class
+*.jar
+*.war
